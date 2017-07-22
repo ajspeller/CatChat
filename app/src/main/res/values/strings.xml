@@ -10,4 +10,6 @@
     <string name="feedback">Feedback</string>
     <string name="user_name">spot@catchat.com</string>
 
+    <string name="nav_open_drawer">Open navigation drawer</string>
+    <string name="nav_close_drawer">Close navigation drawer</string>
 </resources>
