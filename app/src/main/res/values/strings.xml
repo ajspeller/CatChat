@@ -5,4 +5,5 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="inbox">Inbox</string>
     <string name="drafts">Drafts</string>
+    <string name="sent_items">Sent Items</string>
 </resources>
